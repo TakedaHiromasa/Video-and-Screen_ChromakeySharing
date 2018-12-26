@@ -3,7 +3,7 @@ skywayを使ったWebカメラとスクリーンキャプチャのクロマキ�
 
 ## 解説
 詳しくは以下の記事を参照。  
-[SkyWayでデスクトップの映像とカメラの映像をクロマキー合成して配信する]()  
+[SkyWayでデスクトップの映像とカメラの映像をクロマキー合成して配信する](https://qiita.com/TakedaHiromasa/items/b7cd511169e702b731f6)  
 
 SkyWayの[screenshareサンプル](https://github.com/skyway/skyway-screenshare)を改造して作成しました。  
 実行するときは上記リポジトリの`examples`と置き換えて実行してください。
